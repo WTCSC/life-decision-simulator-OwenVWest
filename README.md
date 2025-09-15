@@ -8,7 +8,7 @@ Python 3
 
 ## Instalation
 
-* Download the file as a .py file
+* Download the decision_tree.py file as a .py file
 * Set your directory to the file using cd in the terminal
 * Run the program using python3 (script_name.py), replace scriptname with the name you downloaded the file as
 
